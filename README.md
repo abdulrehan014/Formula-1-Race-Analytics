@@ -179,4 +179,4 @@ advanced statistical analysis.
 
 ## Author
 
-**Abdul Rehan**\
+**Abdul Rehan**
